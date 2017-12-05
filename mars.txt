@@ -10,4 +10,7 @@ Mars is a terrestrial planet with a thin atmosphere, having surface features rem
 
 The rotational period and seasonal cycles of Mars are likewise similar to those of Earth, as is the tilt that produces the seasons. Mars is the site of Olympus Mons, the largest volcano and second-highest known mountain in the Solar System, and of Valles Marineris, one of the largest canyons in the Solar System. The smooth Borealis basin in the northern hemisphere covers 40% of the planet and may be a giant impact feature.[17][18] Mars has two moons, Phobos and Deimos, which are small and irregularly shaped. These may be captured asteroids,[19][20] similar to 5261 Eureka, a Mars trojan.
 
+Mars is approximately half the diameter of Earth with a surface area only slightly less than the total area of Earth's dry land.[8] Mars is less dense than Earth, having about 15% of Earth's volume and 11% of Earth's mass, resulting in about 38% of Earth's surface gravity. The red-orange appearance of the Martian surface is caused by iron(III) oxide, or rust.[35] It can look like butterscotch;[36] other common surface colors include golden, brown, tan, and greenish, depending on the minerals present.[36]
+
 TODO: plan a manned mission to Mars
+TODO: get a rocket
