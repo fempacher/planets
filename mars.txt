@@ -14,3 +14,4 @@ Mars is approximately half the diameter of Earth with a surface area only slight
 
 TODO: plan a manned mission to Mars
 TODO: get a rocket
+TODO: plan a manned mission to Mars, and recruite a team
